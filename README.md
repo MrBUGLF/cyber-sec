@@ -43,3 +43,7 @@
 ### 0x07 报告输出
 
 * 梳理漏洞位置、漏洞类型、风险等级、漏洞POC/EXP，输出到报告模板
+
+
+## 参考文档
+* http://www.pentest-standard.org/
