@@ -36,7 +36,7 @@
 **可用工具**:
 * :bulb: [STRIDE 模型](https://learn.microsoft.com/zh-cn/azure/security/develop/threat-modeling-tool-threats#stride-model)
 * :bulb: [微软威胁建模工具](https://aka.ms/threatmodelingtool)
-* :blub: [OWASP威胁建模工具](https://github.com/mike-goodwin/owasp-threat-dragon)
+* :bulb: [OWASP威胁建模工具](https://github.com/mike-goodwin/owasp-threat-dragon)
 ### 0x04 漏洞检测
 
 * 漏扫工具：AWVS、AppScan等
