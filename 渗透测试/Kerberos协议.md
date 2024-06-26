@@ -27,7 +27,7 @@
 
 ## 4、黄金票据和白银票据
 
-1、黄金票据（Golden Ticket）：伪造TGT，可以获取任意Kerberos的访问权限，同KDC交互，但不同AS交互
+1、黄金票据（Golden Ticket）：伪造TGT，域管理员权限，可以获取任意Kerberos的访问权限，同KDC交互，但不同AS交互
 
 ```
 # 所需条件
@@ -91,7 +91,7 @@ net group "domain admins" qwer$ /domain
 
 ![image-20240607174042493](images/image-20240607174042493.png)
 
-2、白银票据（Sliver Ticket）：伪造ST，只能访问特定服务，不同KDC交互，直接访问Server
+2、白银票据（Sliver Ticket）：伪造ST，域普通用户权限，只能访问特定服务，不同KDC交互，直接访问Server
 
 ```
 # 所需条件
